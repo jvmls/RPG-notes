@@ -4,6 +4,9 @@
 - Not much is know but the earlier guess of a city that is from gold seems to be incorrect
 - A lot of mysterious things happened from animals attacking us randomly to undead creatures in the middle of the city (also attacked us)
 - must learn more about this city
+- Seems like the city has been attacked
+- Basically no one in the streets
+- A lot of fog
 
 ## Briskin the Doll Maker:
 
@@ -26,7 +29,7 @@
   - Strange and mysterious
   - Gave paper with recipe to save the guy that hired us
 - Gather the ingredients
-  - The priest told the party members the location of an abandoned house that could have the ingredients needed to heal our ally
+  - The priest told the party members the location of an abandoned house that could have the ingredients needed to heal our ally (southSide Bartorn's quest)
 - Told us about demon and that by killing him is the only way to get out of the city (Demon quest-line)
 - Priest told us that in this city not everything is what it seems and that lies are everywhere
 <div style="clear:both;"></div>
@@ -39,9 +42,18 @@
 
 <img src="https://media.discordapp.net/attachments/1081637796281847888/1269476878746517504/Bartron.jpeg?ex=66b033f9&is=66aee279&hm=8d9dce3b72d1de145d78ddb8928e64f7113ce1856d10bc3a8b117bf296e4f1d2&=&format=webp&width=492&height=661" alt="Bartron" width="150" style="border-radius:50%; float:left; margin-right:15px;">
 
+- Only one more guy that was hired
 - Infected
+
   - Find a way to cure him from the zombie bite
-- Must find the place to bury the body of his brother
+  - Found the house
+
+    - Family name is Dust
+    - killed a guy
+    - Gustav, Elizabeh and children
+    - kids asks for help in killing the demon
+
+- Must find the place to bury the body of Guldri's brother.
   - Finish the quest that was given to you in Phandalin (30g reward each)
   <div style="clear:both;"></div>
 
@@ -51,4 +63,9 @@
 
 - Found him on the road to this place; he said he was attacked (Should we trust him???)
 - Talk to him and learn more about his past
+- Follow a Pharos (his king)
 <div style="clear:both;"></div>
+
+## Origin:
+
+Guldry busca pedra(Rico) hired us to bury the body of his dead dwarf brother
